@@ -20,7 +20,7 @@ The main goal of this project is to improve my skills with HTML, JS, CSS and Boo
 ```
 ![animatedScroll](https://github.com/SousaVictorH/JSBootstrap/blob/master/projectImg/scrollAnimado.gif)
 ```sh
-4. Responsivity
+4. Responsivity for smartphones and tablets
 ```
 ![responsivity](https://github.com/SousaVictorH/JSBootstrap/blob/master/projectImg/responsividade.png)
 

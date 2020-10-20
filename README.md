@@ -26,7 +26,10 @@ The main goal of this project is to improve my skills with HTML, JS, CSS and Boo
 
 ###  :hammer: Made with
 
-- [JS](https://www.javascript.com/)
+
+- [HTML](https://devdocs.io/html/)
+- [CSS](https://devdocs.io/css/)
+- [JS](https://devdocs.io/javascript/)
 - [Bootstrap](https://getbootstrap.com/)
 
 <!-- GETTING STARTED -->

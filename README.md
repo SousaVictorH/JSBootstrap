@@ -1,5 +1,5 @@
 # :closed_book: JSBootstrap
-Project made entirely with bootstrap, js, and css serving as a website for a software sales company, includes bootstrap cards, parallax and animated scroll.
+Project made entirely with html, js, css and bootstrap serving as a website for a software sales company, includes bootstrap cards, parallax and animated scroll.
 
 ## :question: About the project
 
@@ -20,7 +20,7 @@ The main goal of this project is to improve my skills with HTML, JS, CSS and Boo
 ```
 ![animatedScroll](https://github.com/SousaVictorH/JSBootstrap/blob/master/projectImg/scrollAnimado.gif)
 ```sh
-4. Responsivity for smartphones and tablets
+4. Responsivity (smartphones and tablets)
 ```
 ![responsivity](https://github.com/SousaVictorH/JSBootstrap/blob/master/projectImg/responsividade.png)
 
